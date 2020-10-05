@@ -1,0 +1,5 @@
+site_name: FPV Drone Build
+theme:
+  name: material
+repo_name: 'fpv-drone-build'
+repo_url: 'https://github.com/sidx64/fpv-drone-build.git'
