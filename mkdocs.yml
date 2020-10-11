@@ -1,11 +1,14 @@
 site_name: FPV Drone Build India
 theme:
+  favicon: images/favicon.ico
   name: material
+  logo: 'images/droneIcon2.png'
   features:
     - navigation.instant
 
 nav:
   - Introduction:
+      - Drone Regulations in India: 01-introduction/drone-regulations-ind/_index.en.md
       - Basic Drone Capabilities: 01-introduction/drone-capabilities/_index.en.md
       - Radio Communication Basics: 01-introduction/drone-rc-comms/_index.en.md
       - Basic Drone Components: 01-introduction/drone-components/_index.en.md
@@ -27,8 +30,11 @@ nav:
       - Part 10 - First Flight: 03-build-guide/part-10/_index.en.md
   - External Resources: 04-resources/_index.en.md
 
-strict: false
-
+strict: true
+extra:
+    version: 0.1.1
+extra_css:
+  - stylesheets/extra.css
 markdown_extensions:
   - toc:
       permalink: true
@@ -38,5 +44,4 @@ plugins:
 repo_name: 'fpv-drone-build'
 repo_url: 'https://github.com/sidx64/fpv-drone-build/'
 edit_uri: 'tree/main/docs'
-extra:
-    version: 0.1.1
+
