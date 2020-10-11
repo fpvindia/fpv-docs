@@ -1,8 +1,9 @@
-site_name: FPV Drone Build
+site_name: FPV Drone Build India
 theme:
   name: material
-repo_name: 'fpv-drone-build'
-repo_url: 'https://github.com/sidx64/fpv-drone-build.git'
+  features:
+    - navigation.instant
+
 nav:
   - Introduction:
       - Basic Drone Capabilities: 01-introduction/drone-capabilities/_index.en.md
@@ -25,3 +26,17 @@ nav:
       - Part 09 - The Battery: 03-build-guide/part-9/_index.en.md
       - Part 10 - First Flight: 03-build-guide/part-10/_index.en.md
   - External Resources: 04-resources/_index.en.md
+
+strict: false
+
+markdown_extensions:
+  - toc:
+      permalink: true
+plugins:
+  - search
+
+repo_name: 'fpv-drone-build'
+repo_url: 'https://github.com/sidx64/fpv-drone-build/'
+edit_uri: 'tree/main/docs'
+extra:
+    version: 0.1.1
