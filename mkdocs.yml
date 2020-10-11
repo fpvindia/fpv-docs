@@ -3,3 +3,12 @@ theme:
   name: material
 repo_name: 'fpv-drone-build'
 repo_url: 'https://github.com/sidx64/fpv-drone-build.git'
+nav:
+  - Introduction:
+      - Basic Drone Capabilities: 01-introduction/drone-capabilities/_index.en.md
+      - Features: 1-overview/features/_index.en.md
+      - Integrations: 1-overview/integrations/_index.en.md
+  - Functionalities: 2-functionalities/_index.en.md
+  - Functionalities: 2-functionalities/_index.en.md
+  - Functionalities: 2-functionalities/_index.en.md
+  - Functionalities: 2-functionalities/_index.en.md
