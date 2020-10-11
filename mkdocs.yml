@@ -6,9 +6,22 @@ repo_url: 'https://github.com/sidx64/fpv-drone-build.git'
 nav:
   - Introduction:
       - Basic Drone Capabilities: 01-introduction/drone-capabilities/_index.en.md
-      - Features: 1-overview/features/_index.en.md
-      - Integrations: 1-overview/integrations/_index.en.md
-  - Functionalities: 2-functionalities/_index.en.md
-  - Functionalities: 2-functionalities/_index.en.md
-  - Functionalities: 2-functionalities/_index.en.md
-  - Functionalities: 2-functionalities/_index.en.md
+      - Radio Communication Basics: 01-introduction/drone-rc-comms/_index.en.md
+      - Basic Drone Components: 01-introduction/drone-components/_index.en.md
+      - Tools Needed: 01-introduction/tools-needed/_index.en.md
+  - FPV Drone Setup:
+      - Setup 01: 02-fpv-drone-configs/build-1/_index.en.md
+      - Setup 02: 02-fpv-drone-configs/build-2/_index.en.md
+      - Setup 03: 02-fpv-drone-configs/build-3/_index.en.md
+  - Drone Build Guide:
+      - Part 01 - Getting it all together: 03-build-guide/part-1/_index.en.md
+      - Part 02 - Building the frame: 03-build-guide/part-2/_index.en.md
+      - Part 03 - The Flight Controller: 03-build-guide/part-3/_index.en.md
+      - Part 04 - The ESC: 03-build-guide/part-4/_index.en.md
+      - Part 05 - The Motors: 03-build-guide/part-5/_index.en.md
+      - Part 06 - The Radio: 03-build-guide/part-6/_index.en.md
+      - Part 07 - The Video Transmitter: 03-build-guide/part-7/_index.en.md
+      - Part 08 - The Controller: 03-build-guide/part-8/_index.en.md
+      - Part 09 - The Battery: 03-build-guide/part-9/_index.en.md
+      - Part 10 - First Flight: 03-build-guide/part-10/_index.en.md
+  - External Resources: 04-resources/_index.en.md
