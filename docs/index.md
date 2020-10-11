@@ -24,8 +24,6 @@ The following are the contributors for this project:
 1. Siddharth (@sidx64)
 2. Suresh (@suresh26k)
 
-
-
 ## Contributing
 
 When contributing to this repository, please first discuss the change you wish to make via issue,
