@@ -1,13 +1,23 @@
 site_name: FPV Drone Build India
 theme:
+  font:
+    text: Roboto
+    code: Roboto Mono
+  palette:
+    scheme: slate
+    primary: deep purple
+    accent: amber
   favicon: images/favicon.ico
   name: material
   logo: 'images/droneIcon2.png'
   features:
     - navigation.instant
-
+    - navigation.tabs
+    - header.autohide
+    - toc.autohide
 nav:
-  - Introduction:
+  - Home: index.md
+  - Intro:
       - Drone Regulations in India: 01-introduction/drone-regulations-ind/_index.en.md
       - Basic Drone Capabilities: 01-introduction/drone-capabilities/_index.en.md
       - Radio Communication Basics: 01-introduction/drone-rc-comms/_index.en.md
@@ -28,18 +38,43 @@ nav:
       - Part 08 - The Controller: 03-build-guide/part-8/_index.en.md
       - Part 09 - The Battery: 03-build-guide/part-9/_index.en.md
       - Part 10 - First Flight: 03-build-guide/part-10/_index.en.md
-  - External Resources: 04-resources/_index.en.md
+  - External Resources:
+      - Resources List: 04-resources/external-list/_index.en.md
+      - Drone Configuration List: 04-resources/drone-configs/_index.en.md
+      - Motor Thrust Calculator: 04-resources/thrust-calc/_index.en.md
 
 strict: true
 extra:
     version: 0.1.1
 extra_css:
-  - stylesheets/extra.css
+  - css/extra.css
+extra_javascript:
+  - js/extra.js
 markdown_extensions:
   - toc:
       permalink: true
+      slugify: !!python/name:pymdownx.slugs.uslugify
+      toc_depth: 3
+
+  - admonition
+  - def_list
+  - codehilite:
+      linenums: true
+  - footnotes
+  - pymdownx.arithmatex
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.emoji
+  - pymdownx.tilde
+  - pymdownx.superfences
 plugins:
-  - search
+  - search:
+      lang: en
 
 repo_name: 'fpv-drone-build'
 repo_url: 'https://github.com/sidx64/fpv-drone-build/'
