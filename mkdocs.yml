@@ -11,7 +11,6 @@ theme:
   name: material
   logo: 'images/droneIcon2.png'
   features:
-    - navigation.instant
     - navigation.tabs
     - header.autohide
     - toc.autohide
