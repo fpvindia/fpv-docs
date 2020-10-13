@@ -4,7 +4,7 @@ theme:
     text: Roboto
     code: Roboto Mono
   palette:
-    scheme: slate
+#    scheme: slate
     primary: deep purple
     accent: amber
   favicon: images/favicon.ico
@@ -42,7 +42,6 @@ nav:
       - Resources List: 04-resources/external-list/_index.en.md
       - Drone Configuration List: 04-resources/drone-configs/_index.en.md
       - Motor Thrust Calculator: 04-resources/thrust-calc/_index.en.md
-
 strict: true
 extra:
     version: 0.1.1
@@ -55,7 +54,6 @@ markdown_extensions:
       permalink: true
       slugify: !!python/name:pymdownx.slugs.uslugify
       toc_depth: 3
-
   - admonition
   - def_list
   - codehilite:
@@ -75,7 +73,6 @@ markdown_extensions:
 plugins:
   - search:
       lang: en
-
 repo_name: 'fpv-drone-build'
 repo_url: 'https://github.com/sidx64/fpv-drone-build/'
 edit_uri: 'tree/main/docs'
