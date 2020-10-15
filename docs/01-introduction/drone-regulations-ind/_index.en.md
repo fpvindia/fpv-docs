@@ -59,9 +59,9 @@ and support for this requirement in the drone building world.
 
 ### RTH System & GeoFencing Capabilities
 Drones in the Micro category need to be equipped with the automated capability to return back to the pilot if they enter 
-restricted airspace or places that they are not supposed to be flown into. This too is a complicated requirement for us 
-to achieve and we will be attempting this compliance only after large-scale adoption and support for this requirement in 
-the drone building world. 
+restricted airspace (also known as Controlled Airspace) or places that they are not supposed to be flown into. This too 
+is a complicated requirement for us to achieve and we will be attempting this compliance only after large-scale adoption 
+and support for this requirement in the drone building world. 
 
 ### Flight Records and Logbooks
 Drone pilots are required to maintain clear and concise records of their flight sessions, including information about 
