@@ -4,5 +4,6 @@
         "quadcopters",
         "quadkopters",
         "uarts"
-    ]
+    ],
+    "python.pythonPath": "venv/bin/python"
 }
