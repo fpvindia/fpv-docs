@@ -10,7 +10,7 @@ To build a drone, we need to get a lot of separate electronic parts together. Th
 
 ## Solder Wire
 
-### Utectic Solder Wire
+### Utectic Solder Wire (63/37 Sn/Pb)
 
 ### 60-40 Sn-Pb solder wire
 
