@@ -23,6 +23,21 @@ that are added into the drone itself.
 
 - **FPV Goggles** - These can become the largest singular investment in the entire build, as respectable goggles don't come cheap.
 
-## Build 1
+## Build Components
 
-This is the build we are starting out with
+The drone we are building makes use of the following components
+
+| SL  | Component         | Brand & Model Name                          | Quantity | Link |
+| --- | :---------------- | :------------------------------------------ | :------: | :--: |
+| 01  | Frame             |                                             |    1     |      |
+| 02  | Flight Controller | Mamba F722S                                 |    1     |      |
+| 03  | ESC               | F50 Pro BL_Heli32                           |    1     |      |
+| 04  | Video Transmitter | RushFPV Rush Tank II Ultimate               |    1     |      |
+| 05  | VTX Microphone    | RushFPV Ultra-small External VTX Microphone |    1     |      |
+| 06  | Radio Receiver    |                                             |    1     |      |
+| 07  | Video Antenna     |                                             |    1     |      |
+| 08  | Radio Antenna     |                                             |    1     |      |
+| 09  | Motor             | TMotor Pacer P2207.5 1950KV                 |    4     |      |
+| 10  | Propellers        | TMotor T5416 Propellers                     |    4     |      |
+| 11  | Battery           |                                             |    1     |      |
+| 12  | Camera            | Caddx Tarsier V2 4K Dual Lens FPV Camera    |    1     |      |
