@@ -18,4 +18,4 @@ the drain by buying parts that are pricey yet not the best, popular yet incompat
 The following are the contributors for this project:
 
 1. Siddharth (@sidx64)
-2. Suresh (@suresh26k)
+2. Could be you! (Fork this repo and raise a PR with your contributions)
