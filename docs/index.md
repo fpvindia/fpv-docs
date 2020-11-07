@@ -2,61 +2,60 @@
 
 ## About the project
 
-This started initially as my attempt to build a drone with @suresh26k. However, realizing that this is a great way to 
-help budding drone builders in India to get started, we have decided to make this an open initiative. We welcome people 
-who would like to contribute as they go along with their drone building projects. Help us build a knowledge base that 
-a beginner would benefit most out of. 
+This started initially as my attempt to build a drone with @suresh26k. However, realizing that this is a great way to
+help budding drone builders in India to get started, we have decided to make this an open initiative. We welcome people
+who would like to contribute as they go along with their drone building projects. Help us build a knowledge base that
+a beginner would benefit most out of.
 
-This project aims to act as a starting point for all Indian drone builders and enthusiasts. We want this to be a simple, 
-effective and useful guide for all people who are starting out with this hobby. 
+This project aims to act as a starting point for all Indian drone builders and enthusiasts. We want this to be a simple,
+effective and useful guide for all people who are starting out with this hobby.
 
-Drone building can be an expensive hobby, and beginners need to make sure that they are not flushing their money down 
+Drone building can be an expensive hobby, and beginners need to make sure that they are not flushing their money down
 the drain by buying parts that are pricey yet not the best, popular yet incompatible, and sometimes, just plain wrong.
 
 ## Read this before you begin
 
 There are some important points to note before you begin using these docs:
 
-1. **This project focuses mainly on FPV drones with a 5-inch form factor**. These drones are super versatile, designed for 
-either racing, video-making or freestyling. [Click here](https://www.youtube.com/watch?v=bBb_kSO3vTo) to see an example 
-of the kind of drones we build in this doc (freestyling type drone).
-2. **Drone making needs a considerable amount of research and understanding**. Some important concepts of physics (thrust, 
-load, power to name a few) come into play early into the equation. We will try our best to make this document keeping 
-beginners in mind. _Note that we are beginners too when we started to write this document, and will no longer be when we 
-are done with a full draft_. 
-3. **Drone making can become an expensive hobby**. Please be aware (with market conditions being as they are) that in 
-India, drone enthusiasm is just picking up. 
-4. **Drone parts can become hard to find**. There will be a lot of delays when procuring the right parts for the build and 
-patience will be of paramount importance. If you do not have the patience to wait weeks (to even months) for the right 
-components, this may not be for you.
+1. **This project focuses mainly on FPV drones with a 5-inch form factor**. These drones are super versatile, designed for
+   either racing, video-making or freestyling. [Click here](https://www.youtube.com/watch?v=bBb_kSO3vTo) to see an example
+   of the kind of drones we build in this doc (freestyling type drone).
+2. **Drone making needs a considerable amount of research and understanding**. Some important concepts of physics (thrust,
+   load, power to name a few) come into play early into the equation. We will try our best to make this document keeping
+   beginners in mind. _Note that we are beginners too when we started to write this document, and will no longer be when we
+   are done with a full draft_.
+3. **Drone making can become an expensive hobby**. Please be aware (with market conditions being as they are) that in
+   India, drone enthusiasm is just picking up.
+4. **Drone parts can become hard to find**. There will be a lot of delays when procuring the right parts for the build and
+   patience will be of paramount importance. If you do not have the patience to wait weeks (to even months) for the right
+   components, this may not be for you.
 
 ## License
 
-This project is licensed under the [MIT license](https://opensource.org/licenses/MIT). 
+This project is licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 ## Contributors
 
 The following are the contributors for this project:
 
 1. Siddharth (@sidx64)
-2. Suresh (@suresh26k)
 
 ## Contributing
 
 When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. 
+email, or any other method with the owners of this repository before making a change.
 
 Please note we have a code of conduct, please follow it in all your interactions with the project.
 
 ### Pull Request Process
 
-1. Ensure any install or build dependencies are removed before the end of the layer when doing a 
+1. Ensure any install or build dependencies are removed before the end of the layer when doing a
    build.
-2. Update the README.md with details of changes to the interface, this includes new environment 
+2. Update the README.md with details of changes to the interface, this includes new environment
    variables, exposed ports, useful file locations and container parameters.
 3. Increase the version numbers in any examples files and the README.md to the new version that this
    Pull Request would represent. The versioning scheme we use is [SemVer](http://semver.org/).
-4. You may merge the Pull Request in once you have the sign-off of two other developers, or if you 
+4. You may merge the Pull Request in once you have the sign-off of two other developers, or if you
    do not have permission to do that, you may request the second reviewer to merge it for you.
 
 ### Code of Conduct
@@ -75,21 +74,21 @@ orientation.
 Examples of behavior that contributes to creating a positive environment
 include:
 
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for the community
-* Showing empathy towards other community members
+- Using welcoming and inclusive language
+- Being respectful of differing viewpoints and experiences
+- Gracefully accepting constructive criticism
+- Focusing on what is best for the community
+- Showing empathy towards other community members
 
 Examples of unacceptable behavior by participants include:
 
-* The use of sexualized language or imagery and unwelcome sexual attention or
-advances
-* Trolling, insulting/derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or electronic
+- The use of sexualized language or imagery and unwelcome sexual attention or
+  advances
+- Trolling, insulting/derogatory comments, and personal or political attacks
+- Public or private harassment
+- Publishing others' private information, such as a physical or electronic
   address, without explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
+- Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
 #### Our Responsibilities

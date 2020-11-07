@@ -17,8 +17,8 @@ theme:
 nav:
   - Home: index.md
   - Intro:
-      - Drone Regulations in India: 01-introduction/drone-regulations-ind/_index.en.md
       - Basic Drone Capabilities: 01-introduction/drone-capabilities/_index.en.md
+      - Drone Regulations in India: 01-introduction/drone-regulations-ind/_index.en.md
       - Radio Communication Basics: 01-introduction/drone-rc-comms/_index.en.md
       - Basic Drone Components:
           - Component List: 01-introduction/drone-components/00-components/_index.en.md

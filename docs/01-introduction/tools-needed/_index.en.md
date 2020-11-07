@@ -29,13 +29,23 @@ As for tips, we recommend using the TS-BC2 and TS-C4 tips.
 
 ## Solder Wire
 
-### Utectic Solder Wire (63/37 Sn/Pb)
+Solder wire is an integral component used as the binding medium in soldering joins. Solder is an alloy made by combining two metals (usually Tin [Sn] and Lead [Pb]). We recommend using good quality solder with a rosin core. Rosin core solder wire includes a thin core of rosin material which acts as flux for the soldering process.
 
 ### 60-40 Sn-Pb solder wire
 
+This is the most commonly found solder wire blend available in India. We recommend going for this blend instead of the lead-free version of solder wire. Also, we highly recommend going for this blend with a rosin core to include a bit of flux into the soldering process to make a better join.
+
+### Utectic Solder Wire (63/37 Sn/Pb)
+
+Solder wire also comes in a special blend of 63% tin and 37% lead. This solder wire is called Eutectic solder. While the regular 60-40 blend of solder usually exhibits a variance in solidifying and melting temperature points, utectic solder possesses a single (usually low) melting and solidifying temperature point. This allows for better and more accurate soldering results. Eutectic solder wire is very rarely found in India. Most available products are imported ones made by Kester or other reputable brands.
+
 ## Allen Keys set
 
-## dual-sided tape
+A simple set of allen keys is always valuable. Allen keys allow to quickly work with screws or bolts which have hexagonal heads/sockets. These are cheap and available almost everywhere.
+
+## Dual-sided tape
+
+Dual sided tape is an absolute essential item in the hobbyist's arsenal. These come handy in a variety of situations where we need to ensure that components stay in their designated spots on the drone and don't come off. These come in various widths, sizes and bonding strengths. We recommend going for 3M dual-sided tape.
 
 ## Electrical Wire (silicone kind)
 
