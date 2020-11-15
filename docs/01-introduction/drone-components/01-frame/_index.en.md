@@ -48,13 +48,13 @@ The frame houses all the components of the drone, and hence, must be carefully c
 
 - **Additional/Optional attachments and mounts** - Most frames do not usually come with custom additional parts for mounting uncommon parts. However, frames that come with a GoPro mount for instance, save the additional hassle of having to find or 3D print one, right? Here are some uncommon but essential mounting parts that frames usually do not come with:
 
-  - GoPro mount
-  - Antenna holder (for antennas like the immortal-T or others)
-  - GPS-Chip holder
-  - Custom air-unit holder for DJI based drones
-  - Motor protector mounts (protect the underside of the motor mount)
-  - Base-plate protector
-  - Power-cord fixed mount
-  - Mounting adapters for 20mm/30.5mm (in case the frame does not support one of the mounting sizes)
+        GoPro mount
+        Antenna holder (for antennas like the immortal-T or others)
+        GPS-Chip holder
+        Custom air-unit holder for DJI based drones
+        Motor protector mounts (protect the underside of the motor mount)
+        Base-plate protector
+        Power-cord fixed mount
+        Mounting adapters for 20mm/30.5mm (in case the frame does not support one of the mounting sizes)
 
 - **Arm Positions** - Not very important, but sometimes (depending on the field-of-view of the FPV camera and the angle at which the arms are mounted on to the frame) the propellers come into the view of the camera and can obstruct proper viewing. This is not too much of a problem, but we would recommend getting a frame that has a camera mount which avoids the propellers from getting into the line-of-sight.
