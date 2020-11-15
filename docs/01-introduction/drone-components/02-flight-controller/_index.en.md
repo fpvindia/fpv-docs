@@ -2,7 +2,7 @@
 
 This is arguably one of the most critical parts of the drone. This is a piece of hardware that forms the heart of the drone. The FC is basically a mini computer that manages the way your drone flies. The flight controller usually has some firmware installed on it that allows it to make calculations and decisions by collecting telemetry and data from other parts of the drone and from sensors such as a gyro, GPS, accelerometers and more. The Flight Controller also connects to a radio receiver chip (RX) and accepts control input from the pilot who is flying the drone. It uses these radio signals from the RX to determine the way the pilot wants the drone to move, and makes it fly that way.
 
-The processing power of a flight controller determines the capabilities of the drone. An F4 is a common processor class that is a standard we see in many Flight Controllers today (example, the Mamba F405 comes with an F4 processor). F7 and H7 processor classes are more powerful and rapidly becoming the norm (example, Mamba F722 comes with a F7 processor).
+The processing power of a flight controller determines the capabilities of the drone. An F4 is a common processor class that is a standard we see in many Flight Controllers today (example, the Mamba F405 comes with an F4 processor). F7 and H7 processor classes are more powerful and rapidly becoming the norm (example, Mamba F722 comes with an F7 processor).
 
 ## Categories of Flight Controllers
 
