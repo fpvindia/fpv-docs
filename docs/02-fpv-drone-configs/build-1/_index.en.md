@@ -27,18 +27,17 @@ that are added into the drone itself.
 
 The drone we are building makes use of the following components
 
-| SL  | Component         | Brand & Model Name                          | Quantity |
-| --- | :---------------- | :------------------------------------------ | :------: |
-| 01  | Frame             |                                             |    1     |
-| 02  | Flight Controller | Mamba F722S                                 |    1     |
-| 03  | ESC               | F50 Pro BLHeli32                            |    1     |
-| 04  | Video Transmitter | RushFPV Rush Tank II Ultimate               |    1     |
-| 05  | VTX Microphone    | RushFPV Ultra-small External VTX Microphone |    1     |
-| 06  | Radio Controller  | RadioMaster TX16S Controller                |    1     |
-| 07  | Radio Receiver    |                                             |    1     |
-| 08  | Video Antenna     |                                             |    1     |
-| 09  | Radio Antenna     |                                             |    1     |
-| 10  | Motor             | TMotor Pacer P2207.5 1950KV                 |    4     |
-| 11  | Propellers        | TMotor T5416 Propellers                     |    4     |
-| 12  | Battery           |                                             |    1     |
-| 13  | Camera            | Caddx Tarsier V2 4K Dual Lens FPV Camera    |    1     |
+| SL  | Component         | Brand & Model Name             | Quantity |
+| --- | :---------------- | :----------------------------- | :------: |
+| 01  | Frame             | FLYWOO Mr Croc HD Frame 5-inch |    1     |
+| 02  | Flight Controller | Mamba F722S                    |    1     |
+| 03  | ESC               | F50 Pro BLHeli32               |    1     |
+| 04  | Video Transmitter | DJI Air Unit                   |    1     |
+| 05  | Radio Controller  | RadioMaster TX16S Controller   |    1     |
+| 06  | Radio Receiver    | TBS Nano Diversity Rx          |    1     |
+| 07  | Video Antenna     | RHCP Lollipop                  |    1     |
+| 08  | Radio Antenna     | TBS Immortal-T Antenna         |    1     |
+| 09  | Motor             | TMotor Pacer P2207.5 1950KV    |    4     |
+| 10  | Propellers        | TMotor T5416 Propellers        |    4     |
+| 11  | Battery           | 1550mAh 6S battery             |    1     |
+| 12  | Camera            | Comes with DJI Air Unit        |    1     |
