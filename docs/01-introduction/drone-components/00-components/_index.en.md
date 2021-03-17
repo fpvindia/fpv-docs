@@ -5,7 +5,7 @@ about what they do, in brief
 
 ## List of all parts
 
-- Frame
+- [Frame](../01-frame/_index.en.md)
 - Power Distribution Board (PDB)
 - Flight Controller
 - Electronic Speed Controller (ESC)
