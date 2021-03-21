@@ -17,7 +17,7 @@ Here are the most popular stores I would recommend purchasing from. These are In
 | Online Store Name                                          | Payment options             | Ships from       | GST Bill? |         Contact Numbers          |
 | :--------------------------------------------------------- | --------------------------- | ---------------- | :-------: | :------------------------------: |
 | [AnubisRC](https://anubisrc.com){target=\_blank}           | UPI, RazorPay               | Mumbai, MH       |  **YES**  | (+91)9819030753, (+91)9321623063 |
-| [QuadKart](https://QuadKart.in){target=\_blank}            | UPI, RazorPay               | Muvattupuzha, KL |    TBD    |         (+91)8281205193          |
+| [QuadKart](https://QuadKart.in){target=\_blank}            | UPI, RazorPay               | Muvattupuzha, KL |    NO     |         (+91)8281205193          |
 | [QuadKopters](https://QuadKopters.com){target=\_blank}     | Net Banking, UPI, InstaMojo | Mumbai, MH       |    TBD    |         (+91)8879926216          |
 | [RCMumbai](https://QuadKopters.com){target=\_blank}        | Net Banking, UPI, RazorPay  | Mumbai, MH       |    TBD    | (+91)7678013993, (+91)7718043333 |
 | [Robu](https://Robu.in){target=\_blank}                    | Net Banking, UPI, RazorPay  | Pune, MH         |  **YES**  | (+91)7678013993, (+91)7718043333 |
@@ -35,3 +35,4 @@ Here are the most popular stores I would recommend purchasing from. These are In
 | TBD          | To be Determined | A query has been made with the website using regular channels of communication (email/Instagram/site-chat) |
 | DNR          | Did not Respond  | The website did not respond to my query (Possibly the site does not provide GST bill)                      |
 | YES          | Yes              | The Website confirmed that they do provide an authentic GST bill.                                          |
+| NO           | No               | The Website confirmed that they do NOT provide a GST bill at the moment.                                   |
