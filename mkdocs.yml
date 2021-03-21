@@ -49,6 +49,7 @@ nav:
       - Part 08 - The Controller: 03-build-guide/part-8/_index.en.md
       - Part 09 - The Battery: 03-build-guide/part-9/_index.en.md
       - Part 10 - First Flight: 03-build-guide/part-10/_index.en.md
+  - Indian Shopping Sites: 00-shopping-stores/_index.en.md
   - External Resources:
       - Bibliography: 04-resources/bibliography/_index.en.md
       - Resources List: 04-resources/external-list/_index.en.md
@@ -82,6 +83,7 @@ markdown_extensions:
   - pymdownx.emoji
   - pymdownx.tilde
   - pymdownx.superfences
+  - attr_list
 plugins:
   - search:
       lang: en

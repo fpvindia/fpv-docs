@@ -38,7 +38,8 @@ This project is licensed under the [MIT license](https://opensource.org/licenses
 
 The following are the contributors for this project:
 
-1. Siddharth (@sidx64)
+1. Siddharth Shanbhogue (@sidx64 on Github & Instagram)
+2. This could be you! (just fork this project and raise a pull request with your changes)
 
 ## Contributing
 
