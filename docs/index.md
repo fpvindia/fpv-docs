@@ -1,5 +1,11 @@
 # FPV Drone Build - India
 
+!!! info end
+
+    _This is a work in progress. Some sections are not yet complete. I am working on this in my spare time and I intend to have this completed soon!_ _**- Sid**_
+
+    **The site was last updated on: 21st March 2021 8:00PM**
+
 ## About the project
 
 This started initially as my attempt to build a drone with @suresh26k. However, realizing that this is a great way to
