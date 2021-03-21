@@ -10,7 +10,7 @@ Here are the most popular stores I would recommend purchasing from. These are In
 
 ## **Site information**
 
-| Online Store Name                                              | Payment options             | Ships from       |   GST Bill?   |         Contact Numbers          |
+| **Store Name**                                                 | **Payment options**         | **Ships from**   | **GST Bill**  |       **Contact Numbers**        |
 | :------------------------------------------------------------- | --------------------------- | ---------------- | :-----------: | :------------------------------: |
 | [**AnubisRC**](https://anubisrc.com){target=\_blank}           | UPI, RazorPay               | Mumbai, MH       | **YES, VGST** | (+91)9819030753, (+91)9321623063 |
 | [**QuadKart**](https://QuadKart.in){target=\_blank}            | UPI, RazorPay               | Muvattupuzha, KL |      NO       |         (+91)8281205193          |
@@ -18,6 +18,7 @@ Here are the most popular stores I would recommend purchasing from. These are In
 | [**RCMumbai**](https://QuadKopters.com){target=\_blank}        | Net Banking, UPI, RazorPay  | Mumbai, MH       |      TBD      | (+91)7678013993, (+91)7718043333 |
 | [**Robu**](https://Robu.in){target=\_blank}                    | Net Banking, UPI, RazorPay  | Pune, MH         | **YES, VGST** | (+91)7678013993, (+91)7718043333 |
 | [**TheFPVProject**](https://thefpvproject.com){target=\_blank} | RazorPay                    | New Delhi, NCT   |      NO       |         (+91)8750446575          |
+| [**TujoRC**](https://tujorc.com){target=\_blank}               | UPI                         | Bareilly, UP     | **YES, VGST** |         (+91)8750446575          |
 | [**XtreamRC**](https://xtreamrc.com){target=\_blank}           | UPI, RazorPay               | Pune, MH         |      NO       |         (+91)9611195898          |
 
 !!! danger end
