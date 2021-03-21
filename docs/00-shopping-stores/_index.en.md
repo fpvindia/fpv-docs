@@ -8,8 +8,6 @@ The world of do-it-yourself FPV drone building comes with one critically unfortu
 
 Here are the most popular stores I would recommend purchasing from. These are Indian stores, and they come with the peace of mind that you wont be ripped off by customs at an obscene rate.
 
-!!! danger end
-
 ## **Site information**
 
 | Online Store Name                                              | Payment options             | Ships from       |   GST Bill?   |         Contact Numbers          |
