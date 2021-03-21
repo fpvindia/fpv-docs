@@ -10,21 +10,21 @@ Here are the most popular stores I would recommend purchasing from. These are In
 
 !!! danger end
 
-    Note however, that some of these stores may not have entirely legit establishments, and will not be able to provide you with a GST bill, online secure transactions, or both. If this is something that you are not happy about just go for the legit ones.
-
 ## **Site information**
 
-| Online Store Name                                          | Payment options             | Ships from       |   GST Bill?   |         Contact Numbers          |
-| :--------------------------------------------------------- | --------------------------- | ---------------- | :-----------: | :------------------------------: |
-| [AnubisRC](https://anubisrc.com){target=\_blank}           | UPI, RazorPay               | Mumbai, MH       | **YES, VGST** | (+91)9819030753, (+91)9321623063 |
-| [QuadKart](https://QuadKart.in){target=\_blank}            | UPI, RazorPay               | Muvattupuzha, KL |      NO       |         (+91)8281205193          |
-| [QuadKopters](https://QuadKopters.com){target=\_blank}     | Net Banking, UPI, InstaMojo | Mumbai, MH       | **YES, VGST** |         (+91)8879926216          |
-| [RCMumbai](https://QuadKopters.com){target=\_blank}        | Net Banking, UPI, RazorPay  | Mumbai, MH       |      TBD      | (+91)7678013993, (+91)7718043333 |
-| [Robu](https://Robu.in){target=\_blank}                    | Net Banking, UPI, RazorPay  | Pune, MH         | **YES, VGST** | (+91)7678013993, (+91)7718043333 |
-| [TheFPVProject](https://thefpvproject.com){target=\_blank} | RazorPay                    | New Delhi, NCT   |      NO       |         (+91)8750446575          |
-| [XtreamRC](https://xtreamrc.com){target=\_blank}           | UPI, RazorPay               | Pune, MH         |      NO       |         (+91)9611195898          |
+| Online Store Name                                              | Payment options             | Ships from       |   GST Bill?   |         Contact Numbers          |
+| :------------------------------------------------------------- | --------------------------- | ---------------- | :-----------: | :------------------------------: |
+| [**AnubisRC**](https://anubisrc.com){target=\_blank}           | UPI, RazorPay               | Mumbai, MH       | **YES, VGST** | (+91)9819030753, (+91)9321623063 |
+| [**QuadKart**](https://QuadKart.in){target=\_blank}            | UPI, RazorPay               | Muvattupuzha, KL |      NO       |         (+91)8281205193          |
+| [**QuadKopters**](https://QuadKopters.com){target=\_blank}     | Net Banking, UPI, InstaMojo | Mumbai, MH       | **YES, VGST** |         (+91)8879926216          |
+| [**RCMumbai**](https://QuadKopters.com){target=\_blank}        | Net Banking, UPI, RazorPay  | Mumbai, MH       |      TBD      | (+91)7678013993, (+91)7718043333 |
+| [**Robu**](https://Robu.in){target=\_blank}                    | Net Banking, UPI, RazorPay  | Pune, MH         | **YES, VGST** | (+91)7678013993, (+91)7718043333 |
+| [**TheFPVProject**](https://thefpvproject.com){target=\_blank} | RazorPay                    | New Delhi, NCT   |      NO       |         (+91)8750446575          |
+| [**XtreamRC**](https://xtreamrc.com){target=\_blank}           | UPI, RazorPay               | Pune, MH         |      NO       |         (+91)9611195898          |
 
 !!! danger end
+
+    Note that some of these stores may not have entirely legit establishments, and will not be able to provide you with a GST bill, online secure transactions, or both. If this is something that you are not happy about just go for the legit ones.
 
     The 'GST Bill' column only tells you that the website officially claimed that they provide an authentic GST bill. You are responsible for determining this for yourself before you purchase anything at the site to ensure that this claim they made is true or not. We also do not verify whether the seller is registered as a retailer or not. This is purely a repository of information and we expect you to make your own well-informed decisions when making online transactions.
 
