@@ -14,25 +14,26 @@ Here are the most popular stores I would recommend purchasing from. These are In
 
 ## **Site information**
 
-| Online Store Name                                          | Payment options             | Ships from       | GST Bill? |         Contact Numbers          |
-| :--------------------------------------------------------- | --------------------------- | ---------------- | :-------: | :------------------------------: |
-| [AnubisRC](https://anubisrc.com){target=\_blank}           | UPI, RazorPay               | Mumbai, MH       |  **YES**  | (+91)9819030753, (+91)9321623063 |
-| [QuadKart](https://QuadKart.in){target=\_blank}            | UPI, RazorPay               | Muvattupuzha, KL |    NO     |         (+91)8281205193          |
-| [QuadKopters](https://QuadKopters.com){target=\_blank}     | Net Banking, UPI, InstaMojo | Mumbai, MH       |    TBD    |         (+91)8879926216          |
-| [RCMumbai](https://QuadKopters.com){target=\_blank}        | Net Banking, UPI, RazorPay  | Mumbai, MH       |    TBD    | (+91)7678013993, (+91)7718043333 |
-| [Robu](https://Robu.in){target=\_blank}                    | Net Banking, UPI, RazorPay  | Pune, MH         |  **YES**  | (+91)7678013993, (+91)7718043333 |
-| [TheFPVProject](https://thefpvproject.com){target=\_blank} | RazorPay                    | New Delhi, NCT   |    NO     |         (+91)8750446575          |
-| [XtreamRC](https://xtreamrc.com){target=\_blank}           | UPI, RazorPay               | Pune, MH         |    TBD    |         (+91)9611195898          |
+| Online Store Name                                          | Payment options             | Ships from       |   GST Bill?   |         Contact Numbers          |
+| :--------------------------------------------------------- | --------------------------- | ---------------- | :-----------: | :------------------------------: |
+| [AnubisRC](https://anubisrc.com){target=\_blank}           | UPI, RazorPay               | Mumbai, MH       | **YES, VGST** | (+91)9819030753, (+91)9321623063 |
+| [QuadKart](https://QuadKart.in){target=\_blank}            | UPI, RazorPay               | Muvattupuzha, KL |      NO       |         (+91)8281205193          |
+| [QuadKopters](https://QuadKopters.com){target=\_blank}     | Net Banking, UPI, InstaMojo | Mumbai, MH       | **YES, VGST** |         (+91)8879926216          |
+| [RCMumbai](https://QuadKopters.com){target=\_blank}        | Net Banking, UPI, RazorPay  | Mumbai, MH       |      TBD      | (+91)7678013993, (+91)7718043333 |
+| [Robu](https://Robu.in){target=\_blank}                    | Net Banking, UPI, RazorPay  | Pune, MH         | **YES, VGST** | (+91)7678013993, (+91)7718043333 |
+| [TheFPVProject](https://thefpvproject.com){target=\_blank} | RazorPay                    | New Delhi, NCT   |      NO       |         (+91)8750446575          |
+| [XtreamRC](https://xtreamrc.com){target=\_blank}           | UPI, RazorPay               | Pune, MH         |      NO       |         (+91)9611195898          |
 
 !!! danger end
 
-    The 'GST Bill' column only tells you that the website officially claimed that they provide an authentic GST bill. You are responsible for determining this for yourself before you purchase anything at the site to ensure that this claim they made is true or not.
+    The 'GST Bill' column only tells you that the website officially claimed that they provide an authentic GST bill. You are responsible for determining this for yourself before you purchase anything at the site to ensure that this claim they made is true or not. We also do not verify whether the seller is registered as a retailer or not. This is purely a repository of information and we expect you to make your own well-informed decisions when making online transactions.
 
 ## Legend
 
-| Abbreviation | Expansion        | Meaning                                                                                                    |
-| ------------ | ---------------- | ---------------------------------------------------------------------------------------------------------- |
-| TBD          | To be Determined | A query has been made with the website using regular channels of communication (email/Instagram/site-chat) |
-| DNR          | Did not Respond  | The website did not respond to my query (Possibly the site does not provide GST bill)                      |
-| YES          | Yes              | The Website confirmed that they do provide an authentic GST bill.                                          |
-| NO           | No               | The Website confirmed that they do NOT provide a GST bill at the moment.                                   |
+| Abbreviation | Expansion        | Meaning                                                                                                                                           |
+| ------------ | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| TBD          | To be Determined | A query has been made with the website using regular channels of communication (email/Instagram/site-chat)                                        |
+| DNR          | Did not Respond  | The website did not respond to my query (Possibly the site does not provide GST bill)                                                             |
+| YES          | Yes              | The Website confirmed that they do provide an authentic GST bill.                                                                                 |
+| NO           | No               | The Website confirmed that they do NOT provide a GST bill at the moment.                                                                          |
+| VGST         | Verified GST     | GST ID provided by seller in their invoice is valid as per the [Indian Govt. Taxpayer search Tool](https://services.gst.gov.in/services/searchtp) |
