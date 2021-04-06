@@ -1,6 +1,26 @@
-# Drone Build Configurations
+# Drone Build Configuration 1 - FREESTYLE BUILD
 
-## Non-drone Parts
+## Build Components
+
+The drone we are building makes use of the following components
+
+| SL  | Component         | Brand & Model Name                          | Quantity |
+| --- | :---------------- | :------------------------------------------ | :------: |
+| 01  | Frame             | TBS Source One v3 5-inch                    |    1     |
+| 02  | Flight Controller | Diatone Mamba F722S                         |    1     |
+| 03  | ESC               | Diatone Mamba F50 Pro BLHeli32 50A          |    1     |
+| 04  | Video Transmitter | Caddx Vista                                 |    1     |
+| 05  | Radio Controller  | RadioMaster TX16S Controller/TBS Tango 2 v3 |    1     |
+| 06  | Radio Receiver    | TBS Nano Rx                                 |    1     |
+| 07  | Video Antenna     | RHCP Lollipop (comes with Vista)            |    1     |
+| 08  | Radio Antenna     | TBS Immortal-T Antenna                      |    1     |
+| 09  | Motors            | TMotor (Velox/Pacer) V2 2306/2207 1950KV    |    4     |
+| 10  | Propellers        | GemFan/DalProp 5.1x4.2x3                    |    4     |
+| 11  | Battery           | 1300mAh 6S battery                          |    1     |
+| 12  | Camera            | Caddx Nebula Pro                            |    1     |
+| 13  | Buzzer            | GepRC Super Buzzer                          |    1     |
+
+## Non-drone Parts (same as build 1)
 
 The parts listed in this section refer to components/devices that are needed for flying FPV drones, but are not parts
 that are added into the drone itself.
@@ -22,22 +42,3 @@ that are added into the drone itself.
       NOTE: Make sure to go for one of the above with 'Hall Sensor' Gimbals instead of the standard potentiometer-based gimbals, which don't last long.
 
 - **FPV Goggles** - These can become the largest singular investment in the entire build, as respectable goggles don't come cheap.
-
-## Build Components
-
-The drone we are building makes use of the following components
-
-| SL  | Component         | Brand & Model Name             | Quantity |
-| --- | :---------------- | :----------------------------- | :------: |
-| 01  | Frame             | FLYWOO Mr Croc HD Frame 5-inch |    1     |
-| 02  | Flight Controller | Mamba F722S                    |    1     |
-| 03  | ESC               | F50 Pro BLHeli32               |    1     |
-| 04  | Video Transmitter | DJI Air Unit                   |    1     |
-| 05  | Radio Controller  | RadioMaster TX16S Controller   |    1     |
-| 06  | Radio Receiver    | TBS Nano Diversity Rx          |    1     |
-| 07  | Video Antenna     | RHCP Lollipop                  |    1     |
-| 08  | Radio Antenna     | TBS Immortal-T Antenna         |    1     |
-| 09  | Motor             | TMotor Pacer P2207.5 1950KV    |    4     |
-| 10  | Propellers        | TMotor T5416 Propellers        |    4     |
-| 11  | Battery           | 1550mAh 6S battery             |    1     |
-| 12  | Camera            | Comes with DJI Air Unit        |    1     |

@@ -34,7 +34,7 @@ nav:
           - Radio Receiver: 01-introduction/drone-components/10-radio-rx/_index.en.md
           - Antenna: 01-introduction/drone-components/11-antenna/_index.en.md
       - Tools Needed: 01-introduction/tools-needed/_index.en.md
-  - FPV Drone Setup:
+  - FPV Drone Build Configs:
       - Setup 01: 02-fpv-drone-configs/build-1/_index.en.md
       - Setup 02: 02-fpv-drone-configs/build-2/_index.en.md
       - Setup 03: 02-fpv-drone-configs/build-3/_index.en.md
