@@ -82,6 +82,7 @@ markdown_extensions:
   - pymdownx.smartsymbols
   - pymdownx.emoji
   - pymdownx.tilde
+  - pymdownx.tabbed
   - pymdownx.superfences
   - attr_list
 plugins:
