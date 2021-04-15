@@ -1,6 +1,6 @@
 # Drone Regulations in India
 
-Before we get into the basics of Drone Building, we need to understand what the Indian government thinks about it. '
+Before we get into the basics of Drone Building, we need to understand what the Indian government thinks about it.
 Let's take a look at the hobby drone-flying scene in India:
 
 ## What you should know
