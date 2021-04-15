@@ -13,6 +13,7 @@ Here are the most popular stores I would recommend purchasing from. These are In
 | **Store Name**                                                 | **Payment options**         | **Ships from**   | **GST Bill**  |       **Contact Numbers**        |
 | :------------------------------------------------------------- | --------------------------- | ---------------- | :-----------: | :------------------------------: |
 | [**AnubisRC**](https://anubisrc.com){target=\_blank}           | UPI, RazorPay               | Mumbai, MH       | **YES, VGST** | (+91)9819030753, (+91)9321623063 |
+| [**FPVLTD**](https://fpvltd.com){target=\_blank}               | UPI, RazorPay               |                  |      TBD      |                                  |
 | [**QuadKart**](https://QuadKart.in){target=\_blank}            | UPI, RazorPay               | Muvattupuzha, KL |      NO       |         (+91)8281205193          |
 | [**QuadKopters**](https://QuadKopters.com){target=\_blank}     | Net Banking, UPI, InstaMojo | Mumbai, MH       | **YES, VGST** |         (+91)8879926216          |
 | [**RCMumbai**](https://QuadKopters.com){target=\_blank}        | Net Banking, UPI, RazorPay  | Mumbai, MH       |      TBD      | (+91)7678013993, (+91)7718043333 |

@@ -38,17 +38,17 @@ nav:
       - Setup 01: 02-fpv-drone-configs/build-1/_index.en.md
       - Setup 02: 02-fpv-drone-configs/build-2/_index.en.md
       - Setup 03: 02-fpv-drone-configs/build-3/_index.en.md
-  - Drone Build Guide:
-      - Part 01 - Getting it all together: 03-build-guide/part-1/_index.en.md
-      - Part 02 - Building the frame: 03-build-guide/part-2/_index.en.md
-      - Part 03 - The Flight Controller: 03-build-guide/part-3/_index.en.md
-      - Part 04 - The ESC: 03-build-guide/part-4/_index.en.md
-      - Part 05 - The Motors: 03-build-guide/part-5/_index.en.md
-      - Part 06 - The Radio: 03-build-guide/part-6/_index.en.md
-      - Part 07 - The Video Transmitter: 03-build-guide/part-7/_index.en.md
-      - Part 08 - The Controller: 03-build-guide/part-8/_index.en.md
-      - Part 09 - The Battery: 03-build-guide/part-9/_index.en.md
-      - Part 10 - First Flight: 03-build-guide/part-10/_index.en.md
+  # - Drone Build Guide:
+  #     - Part 01 - Getting it all together: 03-build-guide/part-1/_index.en.md
+  #     - Part 02 - Building the frame: 03-build-guide/part-2/_index.en.md
+  #     - Part 03 - The Flight Controller: 03-build-guide/part-3/_index.en.md
+  #     - Part 04 - The ESC: 03-build-guide/part-4/_index.en.md
+  #     - Part 05 - The Motors: 03-build-guide/part-5/_index.en.md
+  #     - Part 06 - The Radio: 03-build-guide/part-6/_index.en.md
+  #     - Part 07 - The Video Transmitter: 03-build-guide/part-7/_index.en.md
+  #     - Part 08 - The Controller: 03-build-guide/part-8/_index.en.md
+  #     - Part 09 - The Battery: 03-build-guide/part-9/_index.en.md
+  #     - Part 10 - First Flight: 03-build-guide/part-10/_index.en.md
   - Indian Shopping Sites: 00-shopping-stores/_index.en.md
   - External Resources:
       - Bibliography: 04-resources/bibliography/_index.en.md
@@ -57,7 +57,7 @@ nav:
       - Motor Thrust Calculator: 04-resources/thrust-calc/_index.en.md
 strict: true
 extra:
-  version: 0.1.1
+  version: 0.5.2
 extra_css:
   - css/extra.css
 extra_javascript:
