@@ -2,8 +2,8 @@
 
 # Images
 
-![LongRange7Inch](/images/7-inch-LR-FerrariRed.jpg){ align=left }
-![LongRange7Inch](/images/7inch-LR-drone-triBlade.jpeg){ align=left }
+![LongRange7Inch](../../images/7-inch-LR-FerrariRed.jpg){ align=left }
+![LongRange7Inch](../../images/7inch-LR-drone-triBlade.jpeg){ align=left }
 
 ## Build Components
 

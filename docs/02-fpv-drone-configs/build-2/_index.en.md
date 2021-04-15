@@ -2,8 +2,8 @@
 
 # Images
 
-![Freestyle5Inch](/images/5-inch-freestyle-pacers-v2-1.jpeg){ align=left }
-![Freestyle5Inch](/images/5-inch-freestyle-pacers-v2-2.jpeg){ align=left }
+![Freestyle5Inch](../../images/5-inch-freestyle-pacers-v2-1.jpeg){ align=left }
+![Freestyle5Inch](../../images/5-inch-freestyle-pacers-v2-2.jpeg){ align=left }
 
 ## Build Components
 

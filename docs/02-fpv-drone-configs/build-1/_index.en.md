@@ -2,8 +2,8 @@
 
 # Images
 
-![Freestyle5Inch](/images/5-inch-freestyle-1.jpeg){ align=left }
-![Freestyle5Inch](/images/5-inch-freestyle-2.jpeg){ align=left }
+![Freestyle5Inch](../../images/5-inch-freestyle-1.jpeg){ align=left }
+![Freestyle5Inch](../../images/5-inch-freestyle-2.jpeg){ align=left }
 
 ## Build Components
 
