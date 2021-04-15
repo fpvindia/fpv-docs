@@ -1,6 +1,0 @@
-| Candidate Name       | Python Experience                                            | ES6 Experience             | AWS Experience                      | Current Salary | Expected | Notice Period left |
-| -------------------- | ------------------------------------------------------------ | -------------------------- | ----------------------------------- | -------------- | -------- | ------------------ |
-| Bharatraj Guntupalli |                                                              |                            |                                     |                |          |                    |
-| Uday Turmandi        | SQLAlchemy, JSON, URLLibs, Boto3, Pandas, Django, Flask, BS4 | none                       | APIGateway, lambda, S3, SES/SQS/SNS | CTC 2.4        | 5 LPA    | Immediate joining  |
-| Purnima Singh        | django framework, pandas & numpy, AWS boto3                  | react (bare minimum basic) | RDS migration,                      | CTC 6.65       | 9.5 LPA  | 2 months           |
-| Pooja Marri          | low on programming. ETL based work experience.               |                            |                                     | CTC 3.5        | 5 LPA    | 2 months           |

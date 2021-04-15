@@ -1,4 +1,9 @@
-# Drone Build Configuration 1 - FREESTYLE BUILD
+# Drone Build Configuration 1 - 5-Inch FREESTYLE HD BUILD
+
+# Images
+
+![Freestyle5Inch](/images/5-inch-freestyle-1.jpeg){ align=left }
+![Freestyle5Inch](/images/5-inch-freestyle-2.jpeg){ align=left }
 
 ## Build Components
 
@@ -14,8 +19,8 @@ The drone we are building makes use of the following components
 | 06  | Radio Receiver    | TBS Nano Rx                                 |    1     |
 | 07  | Video Antenna     | RHCP Lollipop (comes with Vista)            |    1     |
 | 08  | Radio Antenna     | TBS Immortal-T Antenna                      |    1     |
-| 09  | Motors            | TMotor (Velox/Pacer) V2 2306/2207 1950KV    |    4     |
-| 10  | Propellers        | GemFan/DalProp 5.1x4.2x3                    |    4     |
+| 09  | Motors            | TMotor Pacer V2 2207 1950KV                 |    4     |
+| 10  | Propellers        | GemFan/DalProp/HQProp 5.1x4.2x3             |    4     |
 | 11  | Battery           | 1300mAh 6S battery                          |    1     |
 | 12  | Camera            | Caddx Nebula Pro                            |    1     |
 | 13  | Buzzer            | GepRC Super Buzzer                          |    1     |

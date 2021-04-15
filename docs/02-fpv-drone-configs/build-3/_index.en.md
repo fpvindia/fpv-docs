@@ -1,4 +1,9 @@
-# Drone Build Configuration 1 - LONG RANGE BUILD
+# Drone Build Configuration 1 - 7-Inch LONG RANGE HD BUILD
+
+# Images
+
+![LongRange7Inch](/images/7-inch-LR-FerrariRed.jpg){ align=left }
+![LongRange7Inch](/images/7inch-LR-drone-triBlade.jpeg){ align=left }
 
 ## Build Components
 
@@ -9,7 +14,7 @@ The drone we are building makes use of the following components
 | 01  | Frame             | GepRC Crocodile 7/TBS Source One 7 Inch     |    1     |
 | 02  | Flight Controller | Diatone Mamba F722S                         |    1     |
 | 03  | ESC               | Diatone Mamba F50 Pro BLHeli32 50A          |    1     |
-| 04  | Video Transmitter | Caddx Vista/DJI Air Unit                    |    1     |
+| 04  | Video Transmitter | DJI Air Unit                                |    1     |
 | 05  | Radio Controller  | RadioMaster TX16S Controller/TBS Tango 2 v3 |    1     |
 | 06  | Radio Receiver    | TBS Nano Diversity Rx                       |    1     |
 | 07  | Video Antenna     | iFlight Albatross RHCP                      |    2     |

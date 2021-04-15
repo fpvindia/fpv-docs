@@ -4,7 +4,7 @@
 
     _This is a work in progress. Some sections are not yet complete. I am working on this in my spare time and I intend to have this completed soon!_ _**- Sid**_
 
-    **The site was last updated on: 6th April 2021 11:00PM**
+    **The site was last updated on: 15th April 2021 11:00PM**
 
 ## About the project
 
@@ -44,7 +44,7 @@ This project is licensed under the [MIT license](https://opensource.org/licenses
 
 The following are the contributors for this project:
 
-1. Siddharth Shanbhogue (@sidx64 on Github & Instagram)
+1. Siddharth Shanbhogue ([@sidx64](https://github.com/sidx64) on Github & Instagram)
 2. This could be you! (just fork this project and raise a pull request with your changes)
 
 ## Contributing

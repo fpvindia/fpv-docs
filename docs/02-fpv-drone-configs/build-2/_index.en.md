@@ -1,4 +1,9 @@
-# Drone Build Configuration 2 - FREESTYLE BUILD with Mini stack
+# Drone Build Configuration 2 - 5-Inch FREESTYLE HD BUILD with Mini stack
+
+# Images
+
+![Freestyle5Inch](/images/5-inch-freestyle-pacers-v2-1.jpeg){ align=left }
+![Freestyle5Inch](/images/5-inch-freestyle-pacers-v2-2.jpeg){ align=left }
 
 ## Build Components
 
