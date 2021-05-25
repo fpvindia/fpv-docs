@@ -63,6 +63,15 @@ Useful Links:
 
 - [Buy at Quadkopters](https://www.quadkopters.com/product/tx-and-rx/frsky-taranis-x9d-plus-special-edition/)
 
+#### CrossFire Module
+
+!!! warning end
+
+    **IMPORTANT**
+    _Most radios (including the ones suggested above) work with CRSF protocol with the help of an additional module attached to them. These modules are called CrossFire Modules, and there are three versions - Crossfire TX, CrossFire TX Lite, and the CrossFire Micro TX_
+
+    If you are sure that you will use Crossfire on all your quads, instead of going for the modules, you could also choose to go for a controller that works with the CrossFire module out-of-the-box - the TBS Tango 2 Pro. This will save you the trouble of buying a dedicated CRSF module. You can also add other modules to the Tango 2 Pro later if you need to with an external lite module attachment.
+
 ### **FPV Goggles**
 
 ![Freestyle5Inch](../../images/dji-goggles-v2.jpg){ align=left }
