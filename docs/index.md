@@ -4,7 +4,7 @@
 
     _This is a work in progress. Some sections are not yet complete. I am working on this in my spare time and I intend to have this completed soon!_ _**- Sid**_
 
-    **The site was last updated on: 15th April 2021 11:00PM**
+    **The site was last updated on: 26th May 2021 1:00AM**
 
 ## About the project
 
