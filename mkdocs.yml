@@ -38,9 +38,9 @@ nav:
       - Setup 01: 02-fpv-drone-configs/build-1/_index.en.md
       - Setup 02: 02-fpv-drone-configs/build-2/_index.en.md
       - Setup 03: 02-fpv-drone-configs/build-3/_index.en.md
-  # - Drone Build Guide:
-  #     - Part 01 - Getting it all together: 03-build-guide/part-1/_index.en.md
-  #     - Part 02 - Building the frame: 03-build-guide/part-2/_index.en.md
+  - Drone Build Guide:
+      - Part 01 - Getting it all together: 03-build-guide/part-1/_index.en.md
+      - Part 02 - Building the frame: 03-build-guide/part-2/_index.en.md
   #     - Part 03 - The Flight Controller: 03-build-guide/part-3/_index.en.md
   #     - Part 04 - The ESC: 03-build-guide/part-4/_index.en.md
   #     - Part 05 - The Motors: 03-build-guide/part-5/_index.en.md

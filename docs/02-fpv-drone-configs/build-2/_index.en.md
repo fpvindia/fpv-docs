@@ -27,6 +27,11 @@ The drone we are building makes use of the following components
 
 ## Non-drone Parts (same as build 1)
 
+| SL  | Component              | Brand & Model Name                          | Quantity |
+| --- | :--------------------- | :------------------------------------------ | :------: |
+| 01  | Radio Controller       | RadioMaster TX16S Controller/TBS Tango 2 v3 |    1     |
+| 02  | Video Receiver Goggles | DJI Goggles v2                              |    1     |
+
 The parts listed in this section refer to components/devices that are needed for flying FPV drones, but are not parts
 that are added into the drone itself.
 

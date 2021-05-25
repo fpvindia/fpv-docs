@@ -9,23 +9,27 @@
 
 The drone we are building makes use of the following components
 
-| SL  | Component         | Brand & Model Name                          | Quantity |
-| --- | :---------------- | :------------------------------------------ | :------: |
-| 01  | Frame             | TBS Source One v3 5-inch                    |    1     |
-| 02  | Flight Controller | Diatone Mamba F722S                         |    1     |
-| 03  | ESC               | Diatone Mamba F50 Pro BLHeli32 50A          |    1     |
-| 04  | Video Transmitter | Caddx Vista                                 |    1     |
-| 05  | Radio Controller  | RadioMaster TX16S Controller/TBS Tango 2 v3 |    1     |
-| 06  | Radio Receiver    | TBS Nano Rx                                 |    1     |
-| 07  | Video Antenna     | RHCP Lollipop (comes with Vista)            |    1     |
-| 08  | Radio Antenna     | TBS Immortal-T Antenna                      |    1     |
-| 09  | Motors            | TMotor Pacer V2 2207 1950KV                 |    4     |
-| 10  | Propellers        | GemFan/DalProp/HQProp 5.1x4.2x3             |    4     |
-| 11  | Battery           | 1300mAh 6S battery                          |    1     |
-| 12  | Camera            | Caddx Nebula Pro                            |    1     |
-| 13  | Buzzer            | GepRC Super Buzzer                          |    1     |
+| SL  | Component         | Brand & Model Name                 | Quantity |
+| --- | :---------------- | :--------------------------------- | :------: |
+| 01  | Frame             | TBS Source One v3 5-inch           |    1     |
+| 02  | Flight Controller | Diatone Mamba F722S                |    1     |
+| 03  | ESC               | Diatone Mamba F50 Pro BLHeli32 50A |    1     |
+| 04  | Video Transmitter | Caddx Vista                        |    1     |
+| 05  | Radio Receiver    | TBS Nano Rx                        |    1     |
+| 06  | Video Antenna     | LHCP Lollipop (comes with Vista)   |    1     |
+| 07  | Radio Antenna     | TBS Immortal-T Antenna             |    1     |
+| 08  | Motors            | TMotor Pacer V2 2207 1950KV        |    4     |
+| 09  | Propellers        | GemFan/DalProp/HQProp 5.1x4.2x3    |    4     |
+| 10  | Battery           | 1300mAh 6S battery                 |    1     |
+| 11  | Camera            | Caddx Nebula Pro                   |    1     |
+| 12  | Buzzer            | GepRC Super Buzzer                 |    1     |
 
-## Non-drone Parts (same as build 1)
+## Non-drone Parts
+
+| SL  | Component              | Brand & Model Name                          | Quantity |
+| --- | :--------------------- | :------------------------------------------ | :------: |
+| 01  | Radio Controller       | RadioMaster TX16S Controller/TBS Tango 2 v3 |    1     |
+| 02  | Video Receiver Goggles | DJI Goggles v2                              |    1     |
 
 The parts listed in this section refer to components/devices that are needed for flying FPV drones, but are not parts
 that are added into the drone itself.
