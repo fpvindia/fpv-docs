@@ -4,7 +4,7 @@
 
 This is a comprehensive drone build guide where we will go step-by-step to build a 5-inch freestyle drone. The drone will be capable of a 3-5 minute flight time with a 1300mah LiPo battery and a GoPro attached.
 
-## The Parts
+## The parts
 
 For this build we will use the following parts:
 
@@ -27,4 +27,20 @@ For this build we will use the following parts:
 
     **This however, does not mean that you cannot use CrossFire if you want to. If you like, you can build the drone the way we will in this guide, with the CrossFire Nano Rx receiver. However, you will need a different controller (with a CrossFire Module) as the DJI version wont work with CrossFire.**
 
-- **TBS CrossFire Nano Rx** -
+- **GemFan Durable 3 Blade Propellers** - Often ignored/underestimated, propellers are crucial parts of the drone (obviously! Just try flying without them). The GemFan props that we are going with are 5 inch props with a pitch of 4.2 inches.
+
+## Tools and other resources
+
+Apart from the drone parts we listed above, we will need a few tools and consumables:
+
+- Soldering Iron
+- Solder
+- Silicone wires of various colors
+- Bolts, nuts and washers (usually provided with the motors and the frame)
+- Dual-sided tape
+- Hex Drivers of m2 and m3 size
+- Digital Multimeter (Fluke 115, for instance)
+- Nylon zip ties
+- Heat-shrink tubing of various sizes
+
+These tools are explained in detail in the [Tools Section](../../01-introduction/tools-needed/_index.en.md) of this documentation project
