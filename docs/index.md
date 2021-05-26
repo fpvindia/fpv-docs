@@ -8,10 +8,7 @@
 
 ## About the project
 
-This started initially as my attempt to build a drone with @suresh26k. However, realizing that this is a great way to
-help budding drone builders in India to get started, we have decided to make this an open initiative. We welcome people
-who would like to contribute as they go along with their drone building projects. Help us build a knowledge base that
-a beginner would benefit most out of.
+This started initially as my attempt to build an FPV drone with another friend. However, realizing that this is a great way to help budding FPV drone enthusiasts in India to get started, I've decided to make this an open initiative. We welcome people who would like to contribute as they go along with their drone building projects. Help us build a knowledge base that a beginner would benefit most out of.
 
 This project aims to act as a starting point for all Indian drone builders and enthusiasts. We want this to be a simple,
 effective and useful guide for all people who are starting out with this hobby.
