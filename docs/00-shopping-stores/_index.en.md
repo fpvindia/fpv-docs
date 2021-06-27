@@ -16,7 +16,7 @@ Here are the most popular stores I would recommend purchasing from. These are In
 | [**FPVLTD**](https://fpvltd.com){target=\_blank}               | UPI, RazorPay               |                  |      TBD      |                                  |
 | [**QuadKart**](https://QuadKart.in){target=\_blank}            | UPI, RazorPay               | Muvattupuzha, KL |      NO       |         (+91)8281205193          |
 | [**QuadKopters**](https://QuadKopters.com){target=\_blank}     | Net Banking, UPI, InstaMojo | Mumbai, MH       | **YES, VGST** |         (+91)8879926216          |
-| [**RCMumbai**](https://QuadKopters.com){target=\_blank}        | Net Banking, UPI, RazorPay  | Mumbai, MH       |      TBD      | (+91)7678013993, (+91)7718043333 |
+| [**RCMumbai**](https://rcmumbai.com){target=\_blank}        | Net Banking, UPI, RazorPay  | Mumbai, MH       |      TBD      | (+91)7678013993, (+91)7718043333 |
 | [**Robu**](https://Robu.in){target=\_blank}                    | Net Banking, UPI, RazorPay  | Pune, MH         | **YES, VGST** | (+91)7678013993, (+91)7718043333 |
 | [**TheFPVProject**](https://thefpvproject.com){target=\_blank} | RazorPay                    | New Delhi, NCT   |      NO       |         (+91)8750446575          |
 | [**TujoRC**](https://tujorc.com){target=\_blank}               | UPI                         | Bareilly, UP     | **YES, VGST** |         (+91)8750446575          |
