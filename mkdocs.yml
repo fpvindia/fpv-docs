@@ -91,3 +91,4 @@ plugins:
 repo_name: 'fpv-drone-build'
 repo_url: 'https://github.com/sidx64/fpv-drone-build/'
 edit_uri: 'tree/main/docs'
+site_url: ''
