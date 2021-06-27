@@ -24,7 +24,7 @@ Here are the most popular stores I would recommend purchasing from. These are In
 
 !!! danger end
 
-    Note that some of these stores may not have entirely legit establishments, and will not be able to provide you with a GST bill, online secure transactions, or both. If this is something that you are not happy about just go for the legit ones.
+    Note that some of these stores may not have entirely legit establishments, and will not be able to provide you with a GST bill, online secure transactions, or both. If this is something that you are not happy about just go for the legit ones. 
 
     The 'GST Bill' column only tells you that the website officially claimed that they provide an authentic GST bill. You are responsible for determining this for yourself before you purchase anything at the site to ensure that this claim they made is true or not. We also do not verify whether the seller is registered as a retailer or not. This is purely a repository of information and we expect you to make your own well-informed decisions when making online transactions.
 
