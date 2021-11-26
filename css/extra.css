@@ -1,0 +1,15 @@
+.md-header-nav__button.md-logo img, .md-header-nav__button.md-logo svg {
+    padding: 0 !important;
+    width: 3rem !important;
+    height: 3rem !important;
+    margin: 0 !important;
+}
+
+.md-header{
+    min-height: 2rem !important;
+}
+
+.md-logo{
+    padding:0 !important;
+    margin:0 !important;
+}
